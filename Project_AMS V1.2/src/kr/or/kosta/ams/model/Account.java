@@ -18,7 +18,7 @@ public class Account {
 	int id;
 	static int count = 0;
 
-
+ 
 
 	// 생성자 Overloading(중복 정의)
 
